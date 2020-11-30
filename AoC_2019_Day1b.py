@@ -11,7 +11,7 @@ import math
 total = 0
 total_fuel = 0
 
-# open fuel inputs from text file "FuelInput.txt" as read only
+# open fuel inputs from text file "MassInput.txt" as read only
 mass_input = open("MassInput.txt", "r")
 
 # do some maths on each line and add to total
